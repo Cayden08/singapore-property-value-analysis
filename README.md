@@ -18,7 +18,9 @@ Helping middle-class family buyers find value-for-money residential properties i
 - **Accessibility Score** = bus stops + MRT stations + schools within 500m
 - **Value Score** = Accessibility Score ÷ price per sq ft
 
-Live dashboards: *(Tableau Public link coming soon)*
+![Market overview dashboard](dashboard1.png)
+![Geographic value dashboard](dashboard2.png)
+![Accessibility dashboard](dashboard3.png)
 
 ## Key findings
 - **Woodlands and Sengkang** had the highest value scores; Downtown Core and Orchard had the lowest
